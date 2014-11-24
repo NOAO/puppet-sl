@@ -37,7 +37,7 @@ CONFIGFILE="/etc/yum.conf"
 # EXCLUDE
 #   This is a space deliminated list
 #   Example:  EXCLUDE="kernel* openafs* *-kmdl-* kmod-* *firmware*"
-EXCLUDE="kernel* openafs* *-kmdl-* kmod-* *firmware*"
+EXCLUDE="kernel* openafs* *-kmdl-* kmod-* *firmware* gpfs*"
 
 # PRERUN
 #   A binary or set of commands to run prior to updating (but after sleep)
