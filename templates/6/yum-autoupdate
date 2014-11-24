@@ -11,7 +11,7 @@ ENABLED="true"
 #     true - Send emails when there is something to report (default)
 #     false - Do not send any emails
 #   + anything other than false defaults to true
-SENDEMAIL="true"
+SENDEMAIL="false"
 
 # SENDONLYERRORS
 #     true - Only emails when there is an error
